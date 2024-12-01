@@ -1,4 +1,4 @@
-# Login & Logout Automation
+# Heroku App Automation
 
 ## Description
 This project demonstrates the automation of a login and logout process using Selenium WebDriver for testing a login form on the **Herokuapp** website. The script performs the following tasks:
